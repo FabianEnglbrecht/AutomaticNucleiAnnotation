@@ -1,0 +1,14 @@
+README
+
+The folder "Data" is containing following files/folders:
+
+- code-folder: "0_Code" (containing all python scripts for automated nuclei annotation)
+- data-folder: "1_Training_Automated" (automatically annotated image dataset containing training images, masks, and regions of interest)
+- data-folder: "2_Training_Manual" (manually annotated image dataset containing training images, masks, and regions of interest)
+- data-folder: "3_Test" (image dataset containing test image, mask, and regions of interest)
+- data-folder: "4_BBBC038v1_ImageSubset_individual_dataset" (subset of BBBC038v1 dataset containing masks, training and test images)
+- data-folder: "5_TileScan" (widefield microscopy image)
+- data-folder: "6_Test_Dataset_full" (full test dataset acquired)
+- data-folder: "7_Trainig_Dataset_full" (full training dataset acquired)
+
+All data (except BBBC038v1 dataset) were acquired with a 20x (0.4NA) air objective (Leica) using widefield microscopy (Leica THUNDER Imager).
