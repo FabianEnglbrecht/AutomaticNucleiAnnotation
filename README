@@ -1,7 +1,8 @@
 README
 
+#### Repository for Automatic Nuclei Annotation
 
-The folder "Data" is containing following files/folders:
+This repository is containing following files/folders:
 
 - code-folder: "0_Code" (containing all python scripts for automated nuclei annotation)
 - data-folder: "1_Training_Automated" (automatically annotated image dataset containing training images, masks, and regions of interest)
